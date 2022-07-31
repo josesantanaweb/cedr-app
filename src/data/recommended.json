@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Basicjazz, Vol. 1",
+    "author": "Manel Camp",
+    "imagen": "https://i.ibb.co/54HZ0Lf/jazz-1.png",
+    "price": 200
+  },
+  {
+    "id": 2,
+    "title": "Burn On, You Meteors, Burn On",
+    "author": "Ian Anderson",
+    "imagen": "https://i.ibb.co/tmBBZTW/jazz2-1.png",
+    "price": 12.5
+  },
+  {
+    "id": 3,
+    "title": "Improvisación",
+    "author": "Lorenzo",
+    "imagen": "https://i.ibb.co/qB8LtdH/jazz3-1.png",
+    "price": 12.5
+  },
+  {
+    "id": 4,
+    "title": "Basicjazz, Vol. 1",
+    "author": "Manel Camp",
+    "imagen": "https://i.ibb.co/54HZ0Lf/jazz-1.png",
+    "price": 12.5
+  }
+]
